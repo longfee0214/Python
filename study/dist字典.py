@@ -23,7 +23,6 @@ print("字节数:", getsizeof(values))
 
 # 练习
 # 找到下面字符串使用频率最高的一个字母
-count = 0
 sentence = "This is a common interview question"
 temp_dist = {}
 for i in sentence:
